@@ -40,6 +40,19 @@ clues = {
     "RAIN": "Falls from clouds.",
     "STREAM": "A small flowing river.",
     "STARS": "Twinkle in the night sky.",
+    "BUBBLE": "A thin sphere of liquid enclosing air or gas.",
+    "GOLD": "A precious yellow metal.",
+    "SNAKE": "A legless reptile.",
+    "BRIDGE": "A structure built to span a physical obstacle.",
+    "CLOUD": "A visible mass of condensed water vapor in the sky.",
+    "MUSIC": "An art form consisting of sound and silence.",
+    "BUTTER": "A dairy product made from churning cream.",
+    "GARDEN": "A plot of land where plants are cultivated.",
+    "CANDLE": "A source of light made of wax.",
+    "BREAD": "A staple food made from flour and water.",
+    "KEY": "A small piece of metal used to open locks.",
+    "UMBRELLA": "Used for protection against rain.",
+    "MIRROR": "Reflects your image.",
 }
 
 available_words = list(clues.keys())
